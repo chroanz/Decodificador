@@ -66,7 +66,7 @@ aside {
     color: #0A3871;
 }
 
-#botao1 {
+#criptografar {
     background-color: #0A3871;
     color: white;
     margin-left: 15em;
@@ -104,4 +104,14 @@ aside {
 #p2 {
     font-size: 1em;
     font-weight: 400;
+}
+
+.sumiu {
+    display: none;
+}
+
+#impresso {
+    margin: 1em 0;
+    font-size: 1.5em;
+    font-weight: 700;
 }
